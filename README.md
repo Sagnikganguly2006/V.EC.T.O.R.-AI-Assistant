@@ -1,7 +1,7 @@
 # V.E.C.T.O.R. 🚀
 ### Virtual Everyday Companion for Tasks, Organization, and Research
 
-V.E.C.T.O.R. is an advanced, fully interactive desktop AI operating companion custom-built for Windows environments. It bridges the gap between natural human conversation and native system automation. By establishing direct hardware bindings with your microphone, speakers, mouse, keyboard, display monitor, files, and local command shells, V.E.C.T.O.R. acts as an intelligent command terminal. It can execute deep system diagnostics, program full script files, safely manage local directories, and analyze your active display monitor in real-time to assist you with complex development workflows.
+V.E.C.T.O.R. is an advanced, fully interactive, CLI-based desktop AI operating companion custom-built for Windows environments. It bridges the gap between natural human conversation and native system automation. By establishing direct hardware bindings with your microphone, speakers, mouse, keyboard, display monitor, files, and local command shells, V.E.C.T.O.R. acts as an intelligent command terminal. It can execute deep system diagnostics, program full script files, safely manage local directories, and analyze your active display monitor in real-time to assist you with complex development workflows.
 
 ---
 
