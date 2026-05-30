@@ -42,7 +42,7 @@ def print_claude_banner():
           {CLR_RESET}
     """
     print(banner)
-    print(f"  {CLR_MUTED}v2.0-live  │  Platform: Windows OS  │  Architect: Sagnik Ganguly{CLR_RESET}")
+    print(f"  {CLR_MUTED}v1.0-live  │  Platform: Windows OS  │  Architect: Sagnik Ganguly{CLR_RESET}")
     print(f"  {CLR_MUTED}─────────────────────────────────────────────────────────────────────────{CLR_RESET}\n")
 
 # Audio Stream Settings 
