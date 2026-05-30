@@ -151,8 +151,8 @@ Run this single, unified code block in your Windows command prompt (`cmd`) to do
 
 ```bash
 # 1. Clone the repository and enter the project folder
-git clone [https://github.com/your-username/Project-VECTOR.git](https://github.com/your-username/Project-VECTOR.git)
-cd Project-VECTOR
+git clone [https://github.com/your-username/VECTOR.git](https://github.com/your-username/VECTOR.git)
+cd VECTOR
 
 # 2. Install all hardware wrappers, audio streaming drivers, and AI SDK packages
 pip install google-genai groq psutil pyautogui pyperclip screen-brightness-control AppOpener yfinance requests sounddevice pillow duckduckgo_search youtube_transcript_api selenium python-dotenv pywhatkit pynput
@@ -180,7 +180,7 @@ To access your environment with one click from your screen just like the Stark M
 ```Code Snippet
 @echo off
 title V.E.C.T.O.R. Mainframe
-cd /d "C:\Users\Sagnik Ganguly\Desktop\VECTOR"
+cd /d "C:\paste_your_path"
 python vector_master.py
 pause
 ```
