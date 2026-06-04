@@ -155,7 +155,7 @@ git clone [https://github.com/your-username/VECTOR.git](https://github.com/your-
 cd VECTOR
 
 # 2. Install all hardware wrappers, audio streaming drivers, and AI SDK packages
-pip install google-genai groq psutil pyautogui pyperclip screen-brightness-control AppOpener yfinance requests sounddevice pillow duckduckgo_search youtube_transcript_api selenium python-dotenv pywhatkit pynput
+pip install google-genai groq psutil pyautogui pyperclip screen-brightness-control AppOpener yfinance requests sounddevice pillow ddgs youtube_transcript_api selenium python-dotenv pywhatkit pynput
 
 # 3. Create your secret configuration environment file
 echo. > .env
